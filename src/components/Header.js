@@ -11,7 +11,7 @@ const styles = {
 const Header = () => {
   return (
     <div style={styles}>
-      <header>Hallayo</header>
+      <header>Hallamann</header>
     </div>
   );
 };
